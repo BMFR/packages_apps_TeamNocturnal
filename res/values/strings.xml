@@ -36,7 +36,7 @@
 
     <string name="donate_title">Donate to Team Nocturnal</string>
     <string name="donate_summary">Support Team Nocturnal by donating through PayPal.\n\mDonations go towards the purchase of new devices, hardware, books, and anythine else related to the development of Team Nocturnal Software.\n\nWe appreciate your support!</string>
-    <string name="donate_url">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4V7B4TE2DLN6</string>
+    <string name="donate_url">http://goo.gl/XEJ3Kc</string>
 
     <string name="donate_button_text">Donate via PayPal</string>
     <string name="finish_button_text">Finish</string>
