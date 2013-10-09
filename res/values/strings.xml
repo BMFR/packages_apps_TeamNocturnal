@@ -16,7 +16,7 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">About the Crossbones ROM</string>
+    <string name="app_name">About Team Nocturnal</string>
 
     <string name="about_tab_title">About</string>
     <string name="features_tab_title">Features</string>
@@ -24,19 +24,19 @@
     <string name="contact_tab_title">Contact</string>
     <string name="donate_tab_title">Donate</string>
 
-    <string name="about_title">Welcome to Crossbones</string>
+    <string name="about_title">Welcome to SofaKing Android</string>
 
-    <string name="features_title">Crossbones Features</string>
+    <string name="features_title">SKA Features</string>
 
     <string name="changelog_title">CHANGELOG:</string>
     <string name="changelog_version_text">Current Version:</string>
 
-    <string name="contact_title">Contacting Crossbones:</string>
-    <string name="contact_text">http://xbones.org\nsupport@xbones.org\nTwitter: @Xbones_dev\nIRC: #crossbones on FreeNode\n\nWe are also on RootzWiki and XDA forums</string>
+    <string name="contact_title">Contacting Team Nocturnal:</string>
+    <string name="contact_text">http://Team-Nocturnal.com\nTwitter: @Team_Nocturnal\n\nWe are also on RootzWiki and XDA forums</string>
 
-    <string name="donate_title">Donate to Crossbones</string>
-    <string name="donate_summary">Support Crossbones by donating through PayPal.\n\mDonations go towards the purchase of new devices, hardware, books, and anythine else related to the development of Crossbones Software.\n\nWe appreciate your support!</string>
-    <string name="donate_url">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EX9W3A7743TZS</string>
+    <string name="donate_title">Donate to Team Nocturnal</string>
+    <string name="donate_summary">Support Team Nocturnal by donating through PayPal.\n\mDonations go towards the purchase of new devices, hardware, books, and anythine else related to the development of Team Nocturnal Software.\n\nWe appreciate your support!</string>
+    <string name="donate_url">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4V7B4TE2DLN6</string>
 
     <string name="donate_button_text">Donate via PayPal</string>
     <string name="finish_button_text">Finish</string>
