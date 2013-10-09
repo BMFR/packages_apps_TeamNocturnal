@@ -1,17 +1,5 @@
-Crossbones ROM includes many features and modifications which extend the capabilities of Android.  With each update to Android, Crossbones features may change or be altered to work with the latest version.
+SofaKing Android includes many features and modifications which extend the capabilities of Android.  With each update to Android, Crossbones features may change or be altered to work with the latest version.
 
 Feature list:
 - Rooted ROM using SuperSU for su binary control
-- Native CPU governor, frequency, and I/O control (can be disabled)
-- Basic File Manager app included
-- Flashlight included for devices that have a camera flash (Torch app)
-- Goo.im integration (GooManager app): get automatic notifications for ROM & GAPPS updates
-- Busybox included
-- init.d script support
-- Extended power menu (reboot options, screenshot, etc.)
-- Clear All button in Recent Apps
-- OTG USB support: connect USB devices to microUSB port using OTG cable
-- Modified dictionaries
-- Device & kernel specific options in Settings (High Performance Sound, BLN, GPU overclock, etc)
-- Option to have MMS app split text messages by encoding
-- Status bar clock options
+
