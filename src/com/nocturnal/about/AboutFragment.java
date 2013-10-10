@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.crossbones.welcome;
+package com.nocturnal.about;
 
 import android.app.Fragment;
 import android.os.Bundle;
