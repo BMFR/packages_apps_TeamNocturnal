@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.crossbones.welcome;
+package com.nocturnal.about;
 
 import android.content.Context;
 import android.os.SystemProperties;
