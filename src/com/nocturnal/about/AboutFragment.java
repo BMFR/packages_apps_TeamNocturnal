@@ -36,7 +36,7 @@ public class AboutFragment extends Fragment {
         aboutTitle.append(" " + version);
 
         TextView aboutText = (TextView) aboutView.findViewById(R.id.about);
-        aboutText.setText(Utils.readRawFile(AboutActivity.appContext, R.raw.about_nocturnal));
+        aboutText.setText(Utils.readRawFile(AboutActivity.appContext, R.raw.about_crossbones));
 
         // Inflate the layout for this fragment
         return aboutView;
