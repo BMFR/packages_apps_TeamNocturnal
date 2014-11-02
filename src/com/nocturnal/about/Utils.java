@@ -26,7 +26,7 @@ import java.io.InputStream;
 public class Utils {
 
     public static String getRomVersion() {
-        String version = SystemProperties.get("ro.romversion");
+        String version = SystemProperties.get("ro.cm.version");
         return version;
     }
 

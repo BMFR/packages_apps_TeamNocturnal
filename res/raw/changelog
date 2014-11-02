@@ -1,10 +1,30 @@
-2.0.0
-- Rebased to 4.3.1
-- Added some new tweaks features
-- Lots of general clean-up and fixes
+9/28 Build
+added screen rotation
+up to date with cm source
 
-1.0.0:
-- The Sloth has just entered you 
+10/12 Build
+Active Display
+Call Recording
+Floating Windows
+Fixed APN's being overwritten
+Built with latest GCC 4.8 Toolchains
+Full -O2 Flags 
 
+10/15
+Merged CM's changes
+Enabled Lockscreen Rotation Settings (Settings/Display/Rotation)
 
+10/24 
+Added Slim Heads-Up
+
+10/27
+Added PA's Dynamic System Bars
+
+10/31
+Added in BMFR OTA will now check for Nightly TN builds Not CM (Note Nightly does not mean we will be building EVERY night. Its simply that these builds are not labled STABLE. Please do not expect an update every night. Thanks)
+Settings now has a TN section where we added all of our not typically found in CM additions.
+Added a Power Tile to Quick Settings
+
+11/01
+Fixed the Reboot caused by Power Tile Quick Settings
 

@@ -1,27 +1,32 @@
-Android 4.3.1
+Android 4.4.4
 
-SofaKing Android is a rom developed by Team-Nocturnal.com 
+BMFR is a rom developed by Team-Nocturnal
 
-Originally based off of Google's & AOKP code base, new features and bug fixes are introduced with each build.  See the CHANGELOG for more information.
+Based of CyanogenMod, new features and bug fixes are introduced with each build.  See the CHANGELOG for more information.
 
-View the source code at: http://github.com/SofaKingAndroid
+View the source code at: https://github.com/BMFR
 
 ----------
 
 Developed by:
--XsMagical
--JamieG
 -GruesomeWolf
--Rohan32
--ChongoDroid
--NIN
+-Vinman12
+-mrjaydee82
+-miked63017
+***Special Thanks to**
+-CyanogenMod
+-SlimRoms
+-CarbonRoms
+-Chameleon Team
+-This list could on forever
 
 ----------
 
 Devices currently supported:
-HTC One
-HTC One XL
-HTC EVO 4G LTE
-Nexus 4
-Galaxy S3 (AT&T-Srint)
+HTC One M7 (Both CDMA and GSM)
+HTC One M8
+Samsung Galaxy S5 
+Nexus 7
+Galaxy Tab2
+
 
