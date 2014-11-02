@@ -1,7 +1,7 @@
 The base idea behind BMFR is to take a good solid base (CM), then build it with optimizations, and add a few missing usefull and fluid features. We build with 4.8GCC toolchains and full -O2 for added speed and stability. We are not all about having the MOST mods. We are not all about having the LATEST and GREATEST mods. This ROM is about speed and stability first and foremost. 
 
 Feature list:
-- Everything currently found in CM Plus 
+- Everything currently found in CM with tn add-ons
 - Optional call recording
 - Floating Windows
 - Active Display
